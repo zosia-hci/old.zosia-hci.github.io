@@ -1,2 +1,61 @@
-name: ""
-title: null
+# name: ""
+# title: null
+
+# Basic
+name:               "Zosia Marciniak"
+title:              ""
+description:        "Master Student researching Digital Fabrication"
+
+
+# URL
+url:                http://zosia-hci.github.io
+baseurl:            
+permalink:          /:year/:month/:day/:title.html
+
+# empty-img: 	       images/empty.png
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+ - name:           "about"
+   href:           "/about"
+  - name:           "blog"
+    href:           "/blog"
+  - name:           "publications"
+    href:           "/publication"
+    
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html

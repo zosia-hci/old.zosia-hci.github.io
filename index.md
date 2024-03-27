@@ -11,8 +11,8 @@ Zosia Marciniak, Master Student -- Expected Graduation Date: August, 2025
 Industrial Design, Korea Advanced Institute of Science and Technology (KAIST)
 
 *   Email: zofia.marciniak (at) kaist.ac.kr
-*   Linkedin: [Link](https://www.linkedin.com/in/zosia-marciniak-a2a7a9133/)
-*   Github: [Link](https://github.com/ZosiaZamoyska)
+*   [Linkedin](https://www.linkedin.com/in/zosia-marciniak-a2a7a9133/)
+*   [Github](https://github.com/ZosiaZamoyska)
 
 ## Education
 

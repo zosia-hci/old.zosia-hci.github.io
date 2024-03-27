@@ -1,4 +1,4 @@
-Zosia Marciniak
+Zofia (Zosia) Marciniak
 ===
 
 _last updated: March 27th, 2024_
@@ -28,19 +28,19 @@ Digital Fabrication, Human-Computer Interaction
 ### International Publications
 
 #### 2024
-- CHI
+- Kongpyung (Justin) Moon, Zofia Marciniak, Ryo Suzuki, and Andrea Bianchi. 3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials. In CHI Conference on Human Factors in Computing Systems 
 
 #### 2022
-- VRST Poster
+- Zofia Marciniak, Seo Young Oh, and Sang Ho Yoon. 2024. Guide Ring: Bidirectional Finger-worn Haptic Actuator for Rich Haptic Feedback. In VRST: ACM Symposium on Virtual Reality Software and Technology. (Poster)
+
 
 ### Domestic Publications
 
 #### 2023
-- HCIK
-- 
+- Zofia Marciniak, Kongpyung Moon, Andrea Bianchi. 3D Printing Slicer for Computational Texture Generation. In HCI Korea 2023
+
 #### 2021
-- Marciniak, Zofia, Sumin Han, and Dongman Lee. "Understanding the impact of the Weather on Human Mobility via LTE Access Traces in Seoul Districts." *한국 HCI 학회 학술대회*
- (2021): 615-618. [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530300)
+- Zofia Marciniak, Sumin Han, and Dongman Lee. Understanding the impact of the Weather on Human Mobility via LTE Access Traces in Seoul Districts. In HCI Korea 2021. [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530300)
 
 ## Experiences
 - NoMagic: [https://nomagic.ai/) (June, 2022 - Sept, 2022 · 4 mos)

@@ -1,7 +1,7 @@
 Zosia Marciniak
 ===
 
-_last updated: Feb 21st, 2024_
+_last updated: March 27th, 2024_
 
 <img src="./images/zosia-profile.jpeg" width="200"  />
 

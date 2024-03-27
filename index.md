@@ -3,7 +3,7 @@ Zosia Marciniak
 
 _last updated: Feb 21st, 2024_
 
-<img src="./images/zosia-profile.jpeg" width="200" height="200" />
+<img src="./images/zosia-profile.jpeg" width="200"  />
 
 
 Zosia Marciniak, Master Student -- Expected Graduation Date: August, 2025

@@ -43,7 +43,7 @@ Digital Fabrication, Human-Computer Interaction
 - Zofia Marciniak, Sumin Han, and Dongman Lee. Understanding the impact of the Weather on Human Mobility via LTE Access Traces in Seoul Districts. In HCI Korea 2021. [link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530300)
 
 ## Experiences
-- NoMagic: [https://nomagic.ai/) (June, 2022 - Sept, 2022 · 4 mos)
+- NoMagic: [https://nomagic.ai/] (June, 2022 - Sept, 2022 · 4 mos)
     - Software Engineer Intern
 - Google (July, 2021 - Sept, 2021 · 3 mos)
     - STEP intern
